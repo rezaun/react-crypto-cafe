@@ -6,7 +6,7 @@ const Footer = () => {
       <div className='max-w-screen-xl mx-auto px-4'>
         <div className=' flex max-w-xs mx-auto items-center justify-between'>
           <a
-            href='https://github.com/shakilahmedatik'
+            href='https://facebook.com/rezaunkabir'
             className='text-gray-400 hover:text-gray-800 transition-colors duration-200'
           >
             <svg
@@ -21,7 +21,7 @@ const Footer = () => {
             </svg>
           </a>
           <a
-            href='https://github.com/shakilahmedatik'
+            href='https://twitter.com/rezaun'
             className='text-gray-400 hover:text-gray-800 transition-colors duration-200'
           >
             <svg
@@ -36,7 +36,7 @@ const Footer = () => {
             </svg>
           </a>
           <a
-            href='https://github.com/shakilahmedatik'
+            href='https://github.com/rezaun'
             className='text-gray-400 hover:text-gray-800 transition-colors duration-200'
           >
             <svg
@@ -51,7 +51,7 @@ const Footer = () => {
             </svg>
           </a>
           <a
-            href='https://github.com/shakilahmedatik'
+            href='https://www.linkedin.com/in/rezaunkabir/'
             className='text-gray-400 hover:text-gray-800 transition-colors duration-200'
           >
             <svg
@@ -66,7 +66,7 @@ const Footer = () => {
             </svg>
           </a>
           <a
-            href='https://github.com/shakilahmedatik'
+            href='https://github.com/rezaun'
             className='text-gray-400 hover:text-gray-800 transition-colors duration-200'
           >
             <svg
